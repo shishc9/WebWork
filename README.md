@@ -19,5 +19,7 @@ web课程大作业
 ![](images/Content-model/内容建模-静态.png)
 2. 行为方面-动态建模-UML状态图
 ![](images/Content-model/动态建模-整体.png)
-### 三、展示建模
+### 三、超文本建模
+![](images/navigation.png)
+### 四、展示建模
 ![](images/展示建模.png)
